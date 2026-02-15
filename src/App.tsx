@@ -255,6 +255,17 @@ function App() {
           </div>
         </div>
       )}
+
+      <div className="daily-cross-promo">
+        <span className="promo-label">More Dailies</span>
+        <div className="promo-links">
+          <a href="https://cinephile.codyp.xyz" target="_blank" rel="noopener">🎬 Cinéphile</a>
+          <a href="https://chromacle.vercel.app" target="_blank" rel="noopener">🎨 Chromacle</a>
+          <a href="https://geodle-six.vercel.app" target="_blank" rel="noopener">🌍 Geodle</a>
+          <a href="https://pokedle-pi.vercel.app" target="_blank" rel="noopener">🔴 Pokédle</a>
+          <a href="https://flaggle-chi.vercel.app" target="_blank" rel="noopener">🏁 Flaggle</a>
+        </div>
+      </div>
     </div>
   );
 }
